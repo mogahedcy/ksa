@@ -9,4 +9,4 @@ Disallow: /style.css
 Disallow: /service-page.css
 
 # السماح لجميع محركات البحث بالوصول إلى ملف خريطة الموقع
-Sitemap: https://aldiyar.me/sitemap.xml
+Sitemap: https://aldeyar.me/sitemap.xml
