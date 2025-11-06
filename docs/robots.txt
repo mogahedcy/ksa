@@ -1,0 +1,12 @@
+
+User-agent: *
+Allow: /
+
+# ملفات خاصة
+Disallow: /scripts.js
+Disallow: /service-page.js
+Disallow: /style.css
+Disallow: /service-page.css
+
+# السماح لجميع محركات البحث بالوصول إلى ملف خريطة الموقع
+Sitemap: https://aldeyar.me/sitemap.xml
